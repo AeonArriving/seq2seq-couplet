@@ -1,6 +1,6 @@
 Flask==2.0.3
 Flask-Cors==3.0.10
-gevent==22.10.2
+gevent==24.10.1
 greenlet==2.0.2
 numpy
 tensorboard==1.15
